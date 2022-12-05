@@ -26,6 +26,13 @@ or if Makefile is not enable
 python3 main.py
 ```
 
+## Documentation
+
+- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
+- [Tkinter](https://docs.python.org/es/3/library/tkinter.html)
+- [Guide Tkinter](https://realpython.com/python-gui-tkinter/)
+- [Video Tutorial](https://www.youtube.com/watch?v=0SgC-LBjEjY&ab_channel=CODEROOM)
+
 ## Author
 
 - Daniel Duarte
